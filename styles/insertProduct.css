@@ -1,0 +1,18 @@
+body {
+    background-color: #272727;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.form-container{
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form-select{
+    background-color: rgb(38, 38, 38) !important;
+    border-radius: 3rem;
+    color: white;
+    border: none;
+}

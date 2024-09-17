@@ -1,0 +1,63 @@
+body {
+    background-color: #2a2a2a;
+    color: white;
+}
+
+
+.checkout-container {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+}
+.checkout-header {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.cart-table th, .cart-table td {
+    color: #fff;
+}
+.cart-table .item-name {
+    font-size: 1.1rem;
+}
+
+
+.checkout-summary {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+}
+.checkout-summary h4, .checkout-summary p {
+    color: #fff;
+}
+
+
+.form-label {
+    color: #fff;
+}
+.form-select{
+    background-color: rgb(38, 38, 38) !important;
+    border-radius: 3rem;
+    color: white;
+    border: none;
+}
+
+
+.apply-button {
+    background-color: #6c757d;
+    border: none;
+    color: white;
+}
+.pay-button {
+    border: 1px solid rgb(251, 142, 49);
+    background: linear-gradient(rgb(251, 142, 49) 0%, rgb(255, 108, 0) 100%);
+    border-radius: 3.5rem;
+    cursor: pointer;
+}
+
+
+.red-glow{
+    box-shadow: 0 0 5px 2px red;
+}

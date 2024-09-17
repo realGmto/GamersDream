@@ -1,0 +1,27 @@
+/*---------------------------------------------------*/
+body {
+    background-color: #272727;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.product-card img {
+    border-radius: 8px;
+    height: auto;
+}
+
+.product-card {
+    background-color: #2c2c2c;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.product-card:hover{
+    cursor: pointer;
+}
+
+.price {
+    font-size: 1.2rem;
+    color: orange;
+}
